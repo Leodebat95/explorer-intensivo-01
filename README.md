@@ -1,4 +1,4 @@
-# Exercise - HTML & CSS grid display
+# Exercise - HTML & CSS Responsive Web Design
 
 Exercise #1 from extra-Week "Intensivão", named "Explore sem limites". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
